@@ -28,19 +28,19 @@ Dynamic Split View is an interactive landing page design featuring two images th
 # Preview
 <span>Dynamic Split View</span>
 <br />
-<a href="" target="_blank">
+<a href="https://www.behance.net/gallery/220023017/Dynamic-Split-View" target="_blank">
 <img style="width:550px;" src="./img/landingPageSection.gif" alt="" /></a>
 <br/>
 <span>Dynamic Split View Start & End Point </span>
 <br/>
-<a href="" target="_blank">
+<a href="https://www.behance.net/gallery/220023017/Dynamic-Split-View" target="_blank">
 <img style="width:350px;" src="./img/landingPageSectionHover1.png" alt="" />
 <img style="width:350px;" src="./img/landingPageSectionHover2.png" alt="" />
 </a>
 <br/>
 <span>Cover</span>
 <br/>
-<a href="" target="_blank">
+<a href="https://www.behance.net/gallery/220023017/Dynamic-Split-View" target="_blank">
 <img style="width:350px;" src="./img/cover.png" alt="" />
 </a>
 <br />
